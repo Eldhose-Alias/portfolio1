@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#a1{
+    height: 224px;
+}
+#a2{
+    height: 224px;
+}
+#q1{
+    width: 350px;
+}
